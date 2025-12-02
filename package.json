@@ -1,0 +1,16 @@
+{
+    "name": "fibonaccijs",
+    "version": "1.0.0",
+    "description": "Função fibonacci com testes Jest",
+    "main": "fibonacci.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+      "jest": "^29.7.0"
+    }
+  }
+  
